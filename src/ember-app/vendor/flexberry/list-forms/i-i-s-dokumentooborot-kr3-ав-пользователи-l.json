@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dokumentooborot-kr3-ав-пользователи-e",
+  "editForm": "i-i-s-dokumentooborot-kr3-ав-пользователи-e",
+  "external": false,
+  "caption": "Авторизованные пользователи",
+  "name": "IISDokumentooborotKr3АвПользователиL",
+  "className": "АвПользователиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dokumentooborot-kr3-ав-пользователи",
+      "modelProjection": "АвПользователиL"
+    }
+  ]
+}

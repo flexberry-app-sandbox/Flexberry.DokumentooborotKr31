@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Отделы",
+  "name": "IISDokumentooborotKr3ОтделE",
+  "className": "ОтделE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dokumentooborot-kr3-отдел",
+      "modelProjection": "ОтделE"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+﻿{
+  "applicationCaption": "Информация о сотрудниках",
+  "applicationTitle": "Dokumentooborot kr3",
+  "items": [
+    {
+      "link": null,
+      "menuName": "информация-о-сотрудниках",
+      "caption": "Информация о сотрудниках",
+      "title": "Информация о сотрудниках",
+      "children": [
+        {
+          "link": "i-i-s-dokumentooborot-kr3-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot-kr3-отдел-l",
+          "menuName": null,
+          "caption": "Отделы",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot-kr3-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "администратору-системы",
+      "caption": "Администратору системы",
+      "title": "Администратору системы",
+      "children": [
+        {
+          "link": "i-i-s-dokumentooborot-kr3-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "Сотрудники",
+          "children": null
+        },
+        {
+          "link": "i-i-s-dokumentooborot-kr3-ав-пользователи-l",
+          "menuName": null,
+          "caption": "Авторизованные пользователи",
+          "title": "Ав пользователи",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "пользователю",
+      "caption": "Пользователю",
+      "title": "Пользователю",
+      "children": [
+        {
+          "link": "i-i-s-dokumentooborot-kr3-вход-в-систему-l",
+          "menuName": null,
+          "caption": "Вход в систему",
+          "title": "Вход в систему",
+          "children": null
+        },
+        {
+          "link": null,
+          "menuName": "документация",
+          "caption": "Документация",
+          "title": "Документация",
+          "children": [
+            {
+              "link": "i-i-s-dokumentooborot-kr3-форма-документа-l",
+              "menuName": null,
+              "caption": "Форма Документа",
+              "title": "Форма документа",
+              "children": null
+            },
+            {
+              "link": "i-i-s-dokumentooborot-kr3-рас-док-l",
+              "menuName": null,
+              "caption": "Рассмотренные документы",
+              "title": "Рас док",
+              "children": null
+            },
+            {
+              "link": "i-i-s-dokumentooborot-kr3-хр-док-l",
+              "menuName": null,
+              "caption": "Хранение документов",
+              "title": "Хр док",
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

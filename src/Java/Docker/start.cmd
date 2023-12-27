@@ -1,0 +1,1 @@
+docker-compose -p dokumentooborotkr3-java up -d

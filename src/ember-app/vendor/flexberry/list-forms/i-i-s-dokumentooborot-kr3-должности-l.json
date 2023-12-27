@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dokumentooborot-kr3-должности-e",
+  "editForm": "i-i-s-dokumentooborot-kr3-должности-e",
+  "external": false,
+  "caption": "Должности",
+  "name": "IISDokumentooborotKr3ДолжностиL",
+  "className": "ДолжностиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dokumentooborot-kr3-должности",
+      "modelProjection": "ДолжностиL"
+    }
+  ]
+}

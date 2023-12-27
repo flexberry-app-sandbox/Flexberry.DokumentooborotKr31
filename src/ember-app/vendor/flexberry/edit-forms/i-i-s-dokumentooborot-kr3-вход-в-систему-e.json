@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "авПользователи",
+      "displayAttributeName": "iDПользователя",
+      "required": true,
+      "relationName": "ТЧПользователь.АвПользователи",
+      "projection": "АвПользователиL",
+      "detailModelName": "i-i-s-dokumentooborot-kr3-т-ч-пользователь"
+    }
+  ],
+  "external": false,
+  "caption": "Вход в систему",
+  "name": "IISDokumentooborotKr3ВходВСистемуE",
+  "className": "ВходВСистемуE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dokumentooborot-kr3-вход-в-систему",
+      "modelProjection": "ВходВСистемуE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dokumentooborot-kr3-рас-док-e",
+  "editForm": "i-i-s-dokumentooborot-kr3-рас-док-e",
+  "external": false,
+  "caption": "Рассмотренные документы",
+  "name": "IISDokumentooborotKr3РасДокL",
+  "className": "РасДокL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dokumentooborot-kr3-рас-док",
+      "modelProjection": "РасДокL"
+    }
+  ]
+}

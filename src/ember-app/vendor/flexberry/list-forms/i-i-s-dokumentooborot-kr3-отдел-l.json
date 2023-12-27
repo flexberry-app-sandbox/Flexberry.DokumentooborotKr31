@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-dokumentooborot-kr3-отдел-e",
+  "editForm": "i-i-s-dokumentooborot-kr3-отдел-e",
+  "external": false,
+  "caption": "Отделы",
+  "name": "IISDokumentooborotKr3ОтделL",
+  "className": "ОтделL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-dokumentooborot-kr3-отдел",
+      "modelProjection": "ОтделL"
+    }
+  ]
+}

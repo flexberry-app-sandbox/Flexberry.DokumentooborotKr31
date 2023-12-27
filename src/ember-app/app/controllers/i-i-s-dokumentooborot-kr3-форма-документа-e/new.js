@@ -1,0 +1,4 @@
+import IISDokumentooborotKr3ФормаДокументаEController from '../i-i-s-dokumentooborot-kr3-форма-документа-e';
+
+var IISDokumentooborotKr3ФормаДокументаENewController = IISDokumentooborotKr3ФормаДокументаEController;
+export default IISDokumentooborotKr3ФормаДокументаENewController;

@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISDokumentooborotKr3Отдел",
+  "modelName": "i-i-s-dokumentooborot-kr3-отдел",
+  "className": "Отдел",
+  "nameSpace": "IIS.DokumentooborotKr3",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "наименование",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ОтделE",
+      "modelName": "i-i-s-dokumentooborot-kr3-отдел",
+      "attrs": [
+        {
+          "name": "наименование",
+          "caption": "Наименование отдела",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ОтделL",
+      "modelName": "i-i-s-dokumentooborot-kr3-отдел",
+      "attrs": [
+        {
+          "name": "наименование",
+          "caption": "Наименование отдела",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
